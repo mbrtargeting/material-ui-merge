@@ -24,7 +24,7 @@ FormControlLabel.propTypes = {
    * @ignore
    */
   className: PropTypes.string,
-
+  color: PropTypes.string,
   /**
    * A control element. For instance, it can be be a `Radio`, a `Switch` or a `Checkbox`.
    */
