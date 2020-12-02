@@ -11,4 +11,3 @@ export default (
     Sign Up
   </Button>
 );
-;
